@@ -31,4 +31,28 @@
   <img src="https://count.getloli.com/@:acsanfrancisco?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">📍 Minas Gerais – Brasil 🇧🇷<br>🎓 Graduando em Análise e Desenvolvimento de Sistemas pela UNICESUMAR.<br>🧠 Sempre aprendendo, construindo projetos e explorando novas tecnologias<br>📚 Focado em boas práticas, arquitetura limpa e APIs bem estruturadas</p>
+
+###
+
+<h2 align="left">Desenvolvedor BackEnd | Java | Spring Boot</h2>
+
+###
+
+<p align="left">🎯 Foco Atual de Estudo</p>
+
+###
+
+<p align="left">☕ Java — POO, coleções, streams, boas práticas com Java<br>🍃 Spring Boot — APIs Rest, validações e documentação<br>🛢️ JPA / Hibernate — Modelagem, relacionamentos, consultas e mapeamentos</p>
+
+###
+
+<p align="left">🌎 Onde Me Encontrar<br>📫 E-mail: joaosannetof@gmail.com</p>
+
+###
+
 ###
